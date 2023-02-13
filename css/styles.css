@@ -365,6 +365,7 @@ gap: calc((100% - 3 * 24px) / 4);
 }
 
 .our-team {
+
     background-color:#F4F4FD;;
     padding-top: 120px;
 }
@@ -450,10 +451,6 @@ border-radius: 0px 0px 4px 4px;}
 
 .customers{
     padding-top: 130px;
-}
-
-
-.customers-icon-list-item{
 }
 
 .customers-link{
@@ -554,19 +551,14 @@ color: #FFFFFF;}
 
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1)
 }
-.footer-soc-icon-item {}
 
 .footer-soc-icon-link:hover,.footer-soc-icon-link:focus{
     background-color: #31D0AA;
 }
 .footer-svg {
     fill: var(--text-button);
-
 }
 
-.footer-message{
-
-}
 .footer-mail{
     display: block;
 margin-top: 16px;
